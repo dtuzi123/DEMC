@@ -1,4 +1,4 @@
-# TFDSViT
+# DEMC
 
 # Task-Free Continual Generation and Representation Learning via Dynamic Expansionable Memory Cluster
 
